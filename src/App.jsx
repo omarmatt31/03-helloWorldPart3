@@ -1,4 +1,3 @@
-import "bootstrap/dist/css/bootstrap.min.css";
 import Informacion from "./components/Informacion"
 
 function App() {
